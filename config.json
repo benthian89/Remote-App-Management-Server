@@ -2,7 +2,7 @@
 	"profile": [
 		{
 				"name": "Office",
-				"permission": "00010000100111"
+				"permission": "00010000100111",
 				"app": ["https://github.com/benthian89/Remote-App-Management-Server/raw/master/ocs.android-1.apk","https://github.com/benthian89/Remote-App-Management-Server/raw/master/com.basecamp.app-1.apk"]
 		}
 	]
