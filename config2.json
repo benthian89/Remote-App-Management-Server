@@ -3,7 +3,7 @@
 		{
 				"name": "Office",
 				"permission": "00010000100111",
-				"app": ["https://github.com/benthian89/Remote-App-Management-Server/raw/master/ocs.android-1.apk","https://github.com/benthian89/Remote-App-Management-Server/raw/master/com.communitake.mdc.support.apk"]
+				"app": ["https://github.com/benthian89/Remote-App-Management-Server/raw/master/ocs.android.apk","https://github.com/benthian89/Remote-App-Management-Server/raw/master/com.basecamp.app.apk"]
 		}
 	]
 }
